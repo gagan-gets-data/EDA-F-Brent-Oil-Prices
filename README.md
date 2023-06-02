@@ -61,3 +61,21 @@ Checking the stationarity of the time series using Augmented Dickey - Fuller Tes
 ![40](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/8e7a6a13-0d73-418f-b9b6-0122b845e24d)
 ![41](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/c8fccf71-3c8d-4f18-8c16-4931761b845c)
 
+## ARIMA Model
+
+- Time series log difference
+
+![42](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/defb0fcb-c4bf-46e1-bf19-23a6c1339478)
+
+- Doing the Augmented Dickey - Fuller Test again on the log difference
+
+![43](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/410bdd6b-9ea7-4c01-a913-a7517615e4a8)
+![44](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/e4ae47a8-d526-41b4-9eb3-30e37945d5ec)
+
+- Breakup into Trend, Seasonality and Residual
+
+![45](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/7d02259c-1458-4793-b653-156988103264)
+
+- Final ARIMA Model on Time Series log difference
+
+![46](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/7d0fc45a-29f4-40fe-9c1e-3d035c30834c)
