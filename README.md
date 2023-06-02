@@ -22,6 +22,7 @@ Here we can understand that on the basis of above data on generating forecast fo
 
 ## Using ARIMA Model
 Checking the stationarity of the time series using Augmented Dickey - Fuller Test
+
 ![31](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/8754a874-b6c8-4fbd-9a28-d458243750e6)
 ![32](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/6e283054-3759-4612-b147-f95c83379578)
 
@@ -55,7 +56,7 @@ Checking the stationarity of the time series using Augmented Dickey - Fuller Tes
 ![38](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/ef518214-5ebf-4e99-b6a8-a2d5cb6866b4)
 ![39](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/21813e1a-e68b-427c-bb2d-3af09836c2cb)
 
-Taking Exponentially weighted moving averages as well -
+**Taking Exponentially weighted moving averages as well -**
 
 ![40](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/8e7a6a13-0d73-418f-b9b6-0122b845e24d)
 ![41](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/c8fccf71-3c8d-4f18-8c16-4931761b845c)
