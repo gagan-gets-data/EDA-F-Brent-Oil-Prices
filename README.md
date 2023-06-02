@@ -13,7 +13,7 @@ Here we can understand that on the basis of above data on generating forecast fo
 ![25](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/90784bed-d00e-4994-9e52-ebe9ca2ebf76)
 
 - A single forecast plot
-- 
+ 
 ![28](https://github.com/gagan-gets-data/EDA-F-Brent-Oil-Prices/assets/134737002/e124004a-234c-438c-8717-ae043db73dc5)
 
 ## Side-by-side comparison of original data and forecast between 2017-01-01 and 2020-01-01
